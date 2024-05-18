@@ -1,0 +1,18 @@
+.bg-pink {
+    background-color: #ffaaaa;
+    font-family: Verdana, 'DejaVu Sans', sans-serif;
+}
+
+#two {
+    color: hsl(240, 100%, 50%);   
+    font-size: 36px;
+}
+
+.fs-medium {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(160, 244, 160);
+    font-weight: bold;
+}
